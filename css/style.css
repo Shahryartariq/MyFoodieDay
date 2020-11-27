@@ -120,7 +120,7 @@ header{
     position: absolute;
     left: 0;
     top: 0;
-    background: url("../images/bg1.jpg") no-repeat center center/cover;
+    background: url("./bg1.jpg") no-repeat center center/cover;
     opacity: 0.84;
     z-index: -1;
 }
@@ -256,7 +256,7 @@ header{
     position: absolute;
     left: 0;
     top: 0;
-    background: url("../images/bg.jpg");
+    background: url("./bg.jpg");
     opacity: 0.30;
     z-index: -2;
 }
@@ -277,6 +277,7 @@ header{
     /* align-items: center; */
     padding-bottom: 30px;
     margin: 10px 25px;
+    /* border: 2px solid red; */
 
 }
 
@@ -285,9 +286,11 @@ header{
     width: 15%;
     justify-content: center;
     align-items: center;
-    /* border: 2px solid red; */
+    /* border: 2px solid green; */
     padding: 5px;
     margin: auto;
+    height: 200px;
+    width: 200px;   
 
 }
 
@@ -313,7 +316,7 @@ header{
     position: absolute;
     left: 0;
     top: 0;
-    background: url("../images/contact.jpg") no-repeat center center/cover;
+    background: url("./contact.jpg") no-repeat center center/cover;
     opacity: 0.35;
     z-index: -2;
 }
@@ -434,8 +437,8 @@ header{
 
     /* clients section */
     .Our_clients__image {
-        width: 18%;
         /* flex-wrap: wrap; */
+        padding: 4px; 
     }
 
     /* contact us */
@@ -511,7 +514,9 @@ header{
 
     /* clients */
     .Our_clients__image {
-        width: 25%;
+        /* flex-wrap: wrap; */
+        padding: 3px;
+        height: 150px; 
 
     }
 
