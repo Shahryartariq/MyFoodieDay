@@ -12,6 +12,16 @@ This project is a single-page website built to simulate a small food service bus
 - **Clients Section**: A showcase of client testimonials.
 - **Contact Form**: A simple form where visitors can input their name, email, phone, and message.
 
+### Screenshots
+
+#### Homepage
+![Homepage](images/Homepage.png)
+
+#### Contact Form
+![Contact Form](images/Contact%20Form.png)
+
+> These images showcase the design and layout of MyFoodieDay's various sections.
+
 ### Technologies Used
 - **HTML5**: For semantic structure.
 - **CSS3**: For styling and layout adjustments.
@@ -21,3 +31,9 @@ This project is a single-page website built to simulate a small food service bus
 1. Clone the repository:
    ```bash
    git clone <repository_url>
+
+2. After Cloning the repository:
+   ```bash
+   cd MyFoodieDay
+
+Run and Enjoy the project 🙂🙂🙂
